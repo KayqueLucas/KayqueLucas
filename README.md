@@ -4,11 +4,10 @@ Olá, eu sou Kayque Lucas, um apaixonado por programação que está focado em s
 
 ## Sobre Mim
 
-- 👨‍💻 Atualmente estudando e praticando desenvolvimento back-end pela Cubos Academy.
-- 📚 Aprendendo constantemente sobre a linguagem Node.js.
+- 👨‍💻 Atualmente, sou Residente em TIC/Software, participando do programa de Desenvolvedor Full Stack no SERRATEC, onde tenho a oportunidade de mergulhar profundamente nas tecnologias mais recentes e práticas de desenvolvimento de software.
+- 📚 Aprendendo constantemente sobre Desenvolvimento de Software
 - 🌱 Tecnologias estudadas - Javascript, Node.js, SQL, PostegreSql, Git.
-- 💼 Em busca de oportunidades para colaborar em projetos e ganhar experiência prática.
-
+- 💼 Estou aberto a oportunidades para colaborar em projetos desafiadores e expandir minha experiência prática. Estou particularmente interessado em projetos que envolvam arquitetura de software, gerenciamento de banco de dados e otimização de desempenho.
 ## Habilidades
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,postgres,git,github&theme=dark)](https://skillicons.dev)
@@ -19,4 +18,4 @@ Olá, eu sou Kayque Lucas, um apaixonado por programação que está focado em s
 
 ## Contribuições
 
-Estou sempre aberto a colaborações em projetos interessantes. Se você tiver alguma ideia ou projeto em que gostaria de trabalhar comigo, sinta-se à vontade para entrar em contato.
+Estou começando minha jornada como desenvolvedor e estou animado para aprender e colaborar em projetos interessantes. Se você tem uma ideia ou projeto em que gostaria de trabalhar juntos, estou disponível para contribuir e aprender ao mesmo tempo. Por favor, sinta-se à vontade para entrar em contato comigo. Estou ansioso para colaborar e crescer como desenvolvedor.
