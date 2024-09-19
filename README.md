@@ -10,7 +10,7 @@ Olá, eu sou Kayque Lucas, um apaixonado por programação que está focado em s
 - 💼 Estou aberto a oportunidades para colaborar em projetos desafiadores e expandir minha experiência prática. Estou particularmente interessado em projetos que envolvam arquitetura de software, gerenciamento de banco de dados e otimização de desempenho.
 ## Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,postgres,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,postgres,git,github,java&theme=dark)](https://skillicons.dev)
 
 ## Contato
 
