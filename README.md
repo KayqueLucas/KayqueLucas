@@ -6,11 +6,11 @@ Olá, eu sou Kayque Lucas, um apaixonado por programação que está focado em s
 
 - 👨‍💻 Atualmente, estou em busca do meu primeiro emprego na área de tecnologia, enquanto continuo a estudar de forma independente, me aprofundando nas mais recentes tecnologias e práticas de desenvolvimento de software
 - 📚 Aprendendo constantemente sobre Desenvolvimento de Software
-- 🌱 Tecnologias estudadas - React | React Native | JavaScript | Node | ExpressJs | Git | GitHub | Java + Spring | MySQL | Postgree
+- 🌱 Tecnologias estudadas - React | React Native | JavaScript | Node | ExpressJs | Git | GitHub | Java + Spring | MySQL | PostgreeSql
 - 💼 Estou aberto a oportunidades para colaborar em projetos desafiadores e expandir minha experiência prática. Estou particularmente interessado em projetos que envolvam arquitetura de software, gerenciamento de banco de dados e otimização de desempenho.
 ## Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,postgres,git,github,java,react,reactnative&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,postgres,git,github,java,react,reactnative,mysql&theme=dark)](https://skillicons.dev)
 
 ## Contato
 
