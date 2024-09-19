@@ -4,9 +4,9 @@ Olá, eu sou Kayque Lucas, um apaixonado por programação que está focado em s
 
 ## Sobre Mim
 
-- 👨‍💻 Atualmente, sou Residente em TIC/Software, participando do programa de Desenvolvedor Full Stack no SERRATEC, onde tenho a oportunidade de mergulhar profundamente nas tecnologias mais recentes e práticas de desenvolvimento de software.
+- 👨‍💻 Atualmente, estou em busca do meu primeiro emprego na área de tecnologia, enquanto continuo a estudar de forma independente, me aprofundando nas mais recentes tecnologias e práticas de desenvolvimento de software
 - 📚 Aprendendo constantemente sobre Desenvolvimento de Software
-- 🌱 Tecnologias estudadas - Javascript, Node.js, SQL, PostegreSql, Git.
+- 🌱 Tecnologias estudadas - React | React Native | JavaScript | Node | ExpressJs | Git | GitHub | Java + Spring | MySQL | Postgree
 - 💼 Estou aberto a oportunidades para colaborar em projetos desafiadores e expandir minha experiência prática. Estou particularmente interessado em projetos que envolvam arquitetura de software, gerenciamento de banco de dados e otimização de desempenho.
 ## Habilidades
 
