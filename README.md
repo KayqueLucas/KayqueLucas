@@ -1,4 +1,4 @@
-# Desenvolvedor de software FullStack
+# Desenvolvedor de Software FullStack
 
 Olá, eu sou Kayque Lucas, um apaixonado por programação que está focado em se tornar um desenvolvedor back-end. Este é o meu espaço no GitHub, onde você pode encontrar alguns dos meus projetos e acompanhar minha jornada de aprendizado.
 
