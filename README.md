@@ -1,26 +1,26 @@
 # 👋 Olá, eu sou o Kayque Lucas!
 
-### ⚙️ Desenvolvedor Back-end | Java | Node.js | AWS Cloud
+### ⚙️ Analista de Suporte de TI | Desenvolvedor Back-end
 
-Atualmente cursando **Análise e Desenvolvimento de Sistemas**, meu foco principal é a construção de sistemas robustos, escaláveis e eficientes. Com base sólida vinda da residência **Serratec** e formação pela **Cubos Academy**, venho me especializando em arquitetura de microsserviços e soluções em nuvem utilizando **AWS**.
+Atualmente atuando como **Analista de Suporte** na **SITA** e cursando **Análise e Desenvolvimento de Sistemas**. Meu foco é unir a resolução ágil de incidentes de infraestrutura com a construção de sistemas lógicos e eficientes no lado do servidor. Com base técnica formada pela residência **Serratec** e **Cubos Academy**, transito bem entre o atendimento a usuários (Help Desk, ambientes Windows/Linux) e o desenvolvimento Back-end focado em regras de negócio.
 
 ---
 
 ### 🛠️ Especialidades Técnicas
 
-* **Linguagens:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-* **Frameworks & Cloud:** ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+* **Linguagens:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+* **Infraestrutura & Suporte:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-365&logoColor=white)
+* **Frameworks:** ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 * **Bancos de Dados:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-* **DevOps & Ferramentas:** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-* **Front-end (Suporte):** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+* **Ferramentas:** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 📂 Projetos Back-end em Destaque
+### 📂 Projetos em Destaque
 
-* **Aqui Brechó**: Desenvolvimento de APIs robustas, sistemas de autenticação e integração de banco de dados para uma plataforma de economia circular.
-* **Sistema de Orçamento Imobiliário**: Lógica de negócio para cálculos dinâmicos de aluguel e taxas, focado em performance e precisão de dados.
-* **Infraestrutura AWS**: Projetos focados em deploy, escalabilidade e gerenciamento de serviços em nuvem.
+* **Aqui Brechó (Java/Spring)**: Desenvolvimento de APIs robustas, modelagem relacional (PostgreSQL) e integração de banco de dados para uma plataforma de conexão entre lojistas e clientes finais.
+* **Sistema de Orçamento Imobiliário (Python)**: Criação de lógicas de negócio para automação de cálculos dinâmicos, com forte implementação de testes e tratamento de exceções.
+* **Infraestrutura e Redes (Linux)**: Projetos práticos focados em configuração de ambientes Cliente-Servidor utilizando virtualização (VMs), diagnóstico de redes e gerenciamento de usuários.
 
 ---
 
@@ -37,6 +37,6 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas**, meu foco princip
 
 * **LinkedIn:** [in/kayque-lucas-dev](https://www.linkedin.com/in/kayque-lucas-dev/)
 * **Localização:** Rio de Janeiro, Brasil 🇧🇷
-* **Background:** Sou instrutor de **Jiu-Jitsu** 🥋. No tatame ou no terminal, meu foco é a técnica, a resiliência e a melhoria contínua.
+* **Background:** Sou instrutor de **Jiu-Jitsu** 🥋. No tatame, na infraestrutura ou no terminal, meu foco é a técnica, a resiliência e a melhoria contínua.
 
 ---
